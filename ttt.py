@@ -85,11 +85,11 @@ while not is_board_full(board_spaces):
         print("\n")
         print_board()
         if board_spaces.count("X") > board_spaces.count("O"):
-            print("\nYou win!!!")
+            print("\nYou win nigga!!!")
             exit()
         else:
-            print("\nComputer wins!")
-            exit()  
+            print("\nComputer wins nigga!")
+            exit()
 
 
 
