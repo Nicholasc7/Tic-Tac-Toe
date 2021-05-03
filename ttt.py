@@ -89,7 +89,7 @@ while not is_board_full(board_spaces):
             exit()
         else:
             print("\nComputer wins!")
-            exit() 
+            exit()  
 
 
 
